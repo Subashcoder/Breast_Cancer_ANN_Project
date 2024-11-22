@@ -38,6 +38,7 @@ The dataset is the **Breast Cancer dataset** provided by `scikit-learn`, contain
 ## Setup and installation 
 
 - Create venv
+'''bash 
     - python -m venv Name
 - Activate environment 
     - source Name/Scripts/activate
