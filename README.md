@@ -38,14 +38,13 @@ The dataset is the **Breast Cancer dataset** provided by `scikit-learn`, contain
 ## Setup and installation 
 
 - Create venv
-'''bash 
-    - python -m venv Name
+    - **python -m venv Name**
 - Activate environment 
-    - source Name/Scripts/activate
+    - **source Name/Scripts/activate**
 - Install requirements.txt
-    - pip install -r requirements.txt
+    - **pip install -r requirements.txt**
 - Run streamlit app
-    - streamlit run streamlit.py
+    - **streamlit run streamlit.py**
 
 ## Output
 ![alt text](image.png)
