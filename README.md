@@ -10,9 +10,7 @@ This project predicts whether a breast tumor is **malignant** or **benign** usin
     - [1. Create and Activate Virtual Environment](#1-create-and-activate-virtual-environment)
     - [2. Install Dependencies](#2-install-dependencies)
 5. [How to Run](#how-to-run)
-6. [Usage](#usage)
-7. [Features](#features)
-8. [Future Enhancements](#future-enhancements)
+6. Outputs
 
 ---
 
@@ -48,4 +46,5 @@ The dataset is the **Breast Cancer dataset** provided by `scikit-learn`, contain
 - Run streamlit app
     - streamlit run streamlit.py
 
-
+## Output
+![alt text](image.png)
